@@ -60,5 +60,6 @@ If you use ClipCoords in your work or project, please cite it as follows:
 Author: Hector Kroes
 Project: ClipCoords
 URL: https://github.com/your-username/clipcoords
+DOI: 10.5281/zenodo.13733594
 Year: 2024
 ```
