@@ -27,7 +27,7 @@
 
 1. Clone this repository:
 ```bash
-  git clone https://github.com/your-username/clipcoords.git
+  git clone https://github.com/hfkroes/clipcoords.git
    ```
    
 2. Navigate to the project directory:
