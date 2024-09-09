@@ -1,4 +1,9 @@
 # ClipCoords
+[![DOI](https://zenodo.org/badge/854333898.svg)](https://zenodo.org/doi/10.5281/zenodo.13733593)
+![GitHub Release](https://img.shields.io/github/v/release/hfkroes/ClipCoords?color=green)
+![GitHub top language](https://img.shields.io/github/languages/top/hfkroes/ClipCoords?color=yellow)
+![GitHub License](https://img.shields.io/github/license/hfkroes/ClipCoords?color=orange)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/hfkroes/ClipCoords?color=red)
 
 **ClipCoords** is a Python script that allows you to easily transfer coordinate values from Google Maps to Excel datasheets. It monitors your clipboard for floating-point coordinates in the Google Maps compatible format, automatically formats the values into tab-separated format, and updates your clipboard. This allows you to paste the numbers directly into two adjacent cells in Excel by simply pressing `Ctrl+V` in a single interaction.
 
